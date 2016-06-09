@@ -19,8 +19,7 @@ Tubecoin (v2.0) forked on 21st April 2015 was upgraded to fix a failed POS (proo
 
 It is the goal of the Tubecoin (v2.0) developers for users to access to the Tubecoin developments, technology and tools. Tubecoin started as a SHA256 ASIC-friendly energy efficient mixed PoW/PoS coin with 150,000 Proof Of Work coins, and now operates as a 100% Proof Of Stake coin (8th April 2015). Tubecoin provides a means of transaction in a pseudo-anonymous manner particularly for purchasing adult goods and services (within the current legal framework), indeed any goods and service by businesses that accept Tubecoin.
 
-Giving And Recieving Anal
-----------------------------
+
 
 Tubecoin (v2.0) alows direct end to end transactions referred to as "giving anal" and "receiving anal". This is what is termed as a "viral component" that should allow Tubecoin to target niche markets and provide a fun aspect to using and storing personal wealth (users must be age 16+).
 
